@@ -1,0 +1,7 @@
+yfinance>=1.4.1
+pandas>=3.0.0
+numpy>=2.4.0
+python-dotenv>=1.2.0
+fredapi>=0.5.2
+pandas-datareader>=0.10.0
+pytest>=9.0.0
